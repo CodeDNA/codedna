@@ -1,4 +1,3 @@
-### Hi there 👋
 <code>#Hi there👋</code>
 
 <!--
